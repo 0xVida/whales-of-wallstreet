@@ -1,4 +1,4 @@
-### Current state of the Wow app
+### Current state of the WOW app
 
 <table>
   <tr>
